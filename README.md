@@ -48,7 +48,4 @@ Helpful links:
 1. https://help.blackboard.com/Learn/Instructor/Ultra/Tests_Pools_Surveys/Reuse_Questions/Upload_Questions
 
 
-Please reach out to ihelp@drexel.edu if you have any questions or you need help with exporting and importing of BB learn test.
-
-
 
